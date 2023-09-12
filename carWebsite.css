@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+.lap {
+    position: absolute;
+}
+#car {
+    width: 25%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    
+}
+#container {
+    position:relative;
+}
